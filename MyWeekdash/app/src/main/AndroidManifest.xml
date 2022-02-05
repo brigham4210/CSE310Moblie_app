@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.myweekdash">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyWeekDash"
+        tools:ignore="AllowBackup">
+        <activity
+            android:name=".Saturday"
+            android:exported="false"
+            android:label="@string/saturday"/>
+        <activity
+            android:name=".Friday"
+            android:exported="false"
+            android:label="@string/friday"/>
+        <activity
+            android:name=".Thursday"
+            android:exported="false"
+            android:label="@string/thursday"/>
+        <activity
+            android:name=".Wednesday"
+            android:exported="false"
+            android:label="@string/wednesday"/>
+        <activity
+            android:name=".Tuesday"
+            android:exported="false"
+            android:label="@string/tuesday"/>
+        <activity
+            android:name=".Monday"
+            android:exported="false"
+            android:label="@string/monday"/>
+        <activity
+            android:name=".Sunday"
+            android:exported="false"
+            android:label="@string/Sunday"/>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

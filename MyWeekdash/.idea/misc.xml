@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/brigh/AndroidStudioProjects/MyWeekdash/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1935" />
+        <entry key="..\:/Users/brigh/AndroidStudioProjects/MyWeekdash/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Users/brigh/AndroidStudioProjects/MyWeekdash/app/src/main/res/layout/activity_friday.xml" value="0.25" />
+        <entry key="..\:/Users/brigh/AndroidStudioProjects/MyWeekdash/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/brigh/AndroidStudioProjects/MyWeekdash/app/src/main/res/layout/activity_monday.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/brigh/AndroidStudioProjects/MyWeekdash/app/src/main/res/layout/activity_saturday.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/brigh/AndroidStudioProjects/MyWeekdash/app/src/main/res/layout/activity_sunday.xml" value="0.1" />
+        <entry key="..\:/Users/brigh/AndroidStudioProjects/MyWeekdash/app/src/main/res/layout/activity_thursday.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/brigh/AndroidStudioProjects/MyWeekdash/app/src/main/res/layout/activity_tuesday.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/brigh/AndroidStudioProjects/MyWeekdash/app/src/main/res/layout/activity_wednesday.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/brigh/OneDrive/Desktop/CSE310/Moblie_app/MyWeekdash/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/brigh/OneDrive/Desktop/CSE310/Moblie_app/MyWeekdash/app/src/main/res/layout/activity_sunday.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
